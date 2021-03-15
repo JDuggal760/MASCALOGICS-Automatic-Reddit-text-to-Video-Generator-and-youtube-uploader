@@ -19,7 +19,8 @@ You will saw alot of channel getting popular on YouTube just by uploading “Red
 
 1- Just download this repo to your destop.Extract it and then open cmd and type cd {location of the folder}                                                               
 2- **pip install -r requirements.txt**                                                                                                                                               4
-3- Open links.txt and place the links of subreddit. To create video of multiple links seperate links with comas.1 video per line in file no matter how much u place links in single line.it will create single video
+3- Open links.txt and place the links of subreddit. To create video of multiple links seperate links with comas.
+1 video per line in file no matter how much u place links in single line.it will create single video
 
       video1 =url1,url2,url3 all three for single video
      
