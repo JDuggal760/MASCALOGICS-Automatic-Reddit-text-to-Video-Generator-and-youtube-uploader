@@ -9,7 +9,7 @@ You will saw alot of channel getting popular on YouTube just by uploading “Red
 2- You can change Background of the video and also text colour.                                                                                                                                  
 3- Supports both male and female voices.                                                                                                                                                      
 4- You can also create video by just giving text script.                                                   
-5- Generates Thumbnail                                                                                                                                                               
+5- Generates Thumbnail                                                                                                                                                                
 6- Background music
 
 
